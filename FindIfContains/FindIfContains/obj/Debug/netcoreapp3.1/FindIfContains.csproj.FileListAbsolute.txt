@@ -1,0 +1,12 @@
+/Users/yusifnazarbayov/Desktop/FindIfContains/FindIfContains/bin/Debug/netcoreapp3.1/FindIfContains.deps.json
+/Users/yusifnazarbayov/Desktop/FindIfContains/FindIfContains/bin/Debug/netcoreapp3.1/FindIfContains.runtimeconfig.json
+/Users/yusifnazarbayov/Desktop/FindIfContains/FindIfContains/bin/Debug/netcoreapp3.1/FindIfContains.runtimeconfig.dev.json
+/Users/yusifnazarbayov/Desktop/FindIfContains/FindIfContains/bin/Debug/netcoreapp3.1/FindIfContains.dll
+/Users/yusifnazarbayov/Desktop/FindIfContains/FindIfContains/bin/Debug/netcoreapp3.1/FindIfContains.pdb
+/Users/yusifnazarbayov/Desktop/FindIfContains/FindIfContains/obj/Debug/netcoreapp3.1/FindIfContains.csprojAssemblyReference.cache
+/Users/yusifnazarbayov/Desktop/FindIfContains/FindIfContains/obj/Debug/netcoreapp3.1/FindIfContains.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Desktop/FindIfContains/FindIfContains/obj/Debug/netcoreapp3.1/FindIfContains.AssemblyInfo.cs
+/Users/yusifnazarbayov/Desktop/FindIfContains/FindIfContains/obj/Debug/netcoreapp3.1/FindIfContains.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/Desktop/FindIfContains/FindIfContains/obj/Debug/netcoreapp3.1/FindIfContains.dll
+/Users/yusifnazarbayov/Desktop/FindIfContains/FindIfContains/obj/Debug/netcoreapp3.1/FindIfContains.pdb
+/Users/yusifnazarbayov/Desktop/FindIfContains/FindIfContains/obj/Debug/netcoreapp3.1/FindIfContains.genruntimeconfig.cache
